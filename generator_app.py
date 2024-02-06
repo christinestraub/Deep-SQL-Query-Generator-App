@@ -22,7 +22,7 @@ def main():
             <div style="text-align: center;">
                  <h1>🤖Deep AI SQL Query Generator Brain🧠</h1>
                  <h3>With this app, you can interact with a natural language interface to generate SQL queries, making it easier for both beginners and experienced SQL users to work with databases.</h3>
-                 <h4>Made by <a href="https://www.linkedin.com/in/adad74/">Adad Al Shabab</a></h4>
+                 <h4>Made by <a href="#">Christine Straub</a></h4>
                  <p>For more information, visit <a href="https://www.streamlit.io/">Streamlit</a></p>
             </div>
 
