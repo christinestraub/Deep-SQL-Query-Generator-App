@@ -61,20 +61,6 @@ Built With
 -   [Streamlit](https://streamlit/) - Web framework
 -   [Gemini AI Model](https://huggingface.co/babelscape/gemini) - AI model for generating SQL queries
 
-Contributing
-------------
-
-Please read [CONTRIBUTING.md](https://gist.github.com/your-username/new-file.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-Versioning
-----------
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your-username/deepsql-query-generator-app/tags).
-
-Authors and Acknowledgment
---------------------------
-
--   **Christine Straub** - 
 
 License
 -------
